@@ -1,5 +1,5 @@
 # TIC Industry - Case Study
-webpage link: 
+webpage link: https://saikatb2000.github.io/TIC-Industry_case_study/
 
 This project showcases a case study of a key player in the **Testing, Inspection, and Certification (TIC)** industry. It involves a comprehensive analysis of their LinkedIn strategy, organic and paid campaigns, and the resulting performance metrics. The analysis is presented using Tableau dashboards embedded in the HTML file.
 
